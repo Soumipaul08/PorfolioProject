@@ -1,0 +1,26 @@
+.tech-stack{
+   padding-left: 120px;
+}
+
+.tech-stack hr{
+   color: #1387B1;
+   width: 400px;
+   margin: 10px auto;
+}
+
+.tech-stack h2{
+    font-weight: bold;
+    color: #1387B1;
+}
+
+.row{
+    margin-left: 100px;
+}
+
+.card-body:hover{
+    font-size: 2rem;
+    border: none;
+    background-color: #1387B1;
+    color: white;
+    transition: 1s;
+}
